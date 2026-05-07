@@ -1,4 +1,4 @@
-![banner](banner4.gif)
+![banner](banner3.gif)
 
 <!--
 **jujuDeveloper/jujuDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
