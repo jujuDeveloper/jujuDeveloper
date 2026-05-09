@@ -1,4 +1,5 @@
 ![banner](banner3_compact.gif)
+
 ![badge](solid-color-image(3).png)
 <!--
 **jujuDeveloper/jujuDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
